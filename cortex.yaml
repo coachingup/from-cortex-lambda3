@@ -1,0 +1,16 @@
+openapi: 3.0.1
+info:
+  title: From Cortex Lambda3
+  description: ""
+  x-cortex-tag: from-cortex-lambda3
+  x-cortex-git:
+    github:
+      repository: coachingup/from-cortex-lambda3
+  x-cortex-owners:
+  - email: paul.hsiung@betterup.co
+    type: EMAIL
+  - name: coachingup/everyone
+    type: GROUP
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.0.1
+    cortex-generated-timestamp: 2022-08-11T21:38:57.143701
